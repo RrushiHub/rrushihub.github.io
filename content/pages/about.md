@@ -6,42 +6,51 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: We are Planty
+    headline: Rrushi
     subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+      Employee turnover has been identified as a key issue for organizations
+      because of its adverse impact on work place productivity and long term
+      growth strategies. To solve this problem, organizations use machine
+      learning techniques to predict employee turnover.  Accurate predictions
+      enable organizations to take action for retention or succession planning
+      of employees.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love plants
-        description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
-        image: images/nan_talk.jpg
-      - title: We think plants are the future
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
-        image: images/team.jpg
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    cta:
-      title: Discover
-      url: /store
+
+    - title: What's on offer?
+      description: >-
+        However, the data for this modeling problem comes from HR Information
+        Systems (HRIS); these are typically under-funded compared to the
+        Information Systems ofother domains inthe organization which are
+        directly related to its priorities. This leads to the prevalence of
+        noise in the data that renders predictive models prone to
+        over-fitting and hence inaccurate.
+
+    - title: AI?
+      description: >-
+        AI doesn’t have to be scary. In fact, AI increasingly can help
+        employers retain talent and prevent employee turnover.
+
+        The key to effective use of AI for retention is combining big data and
+        machine learning with the human touch.
+
+        > “Be mindful that algorithms are only as smart as the people who write them.”
+
+    - title: What's up for grabs?
+      description: >-
+        # Better Work-Life Balance Through Customized Scheduling
+
+        # Identifying Opportunities for Growth
+
+        # Boosting Productivity
+
+  #  - type: promotion_section
+  #    section_id: promotion_section
+  #    title: A new home interior for summer
+  #    subtitle: from $149.99
+  #    image: images/promo.jpg
+  #    cta:
+  #      title: Discover
+  #      url: /store
 ---
